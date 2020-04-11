@@ -1,0 +1,16 @@
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.deps.json
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEKinci.Core.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\bin\Debug\netcoreapp2.2\MSEKinci.Core.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.AssemblyInfo.cs
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.csproj.CopyComplete
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Business\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Business.pdb

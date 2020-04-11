@@ -1,0 +1,12 @@
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.deps.json
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\bin\Debug\netcoreapp2.2\MSEKinci.Core.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\bin\Debug\netcoreapp2.2\MSEKinci.Core.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.AssemblyInfo.cs
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.csproj.CopyComplete
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.Entities\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.pdb

@@ -1,0 +1,112 @@
+﻿@model MSEkinci.Northwind.MvcWebUI.ViewModels.ProductListAdminViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-danger card-img-holder text-white">
+            <div class="card-body">
+                <img src="/node_modules/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Total Product <i class="mdi mdi-chart-line mdi-24px float-right"></i>
+                </h4>
+                <h2 class="mb-5">@Model.TotalProductSize</h2>
+                <!--    <h6 class="card-text">Increased by 60%</h6> -->
+            </div>
+        </div>
+    </div>
+    <!--
+    <script>
+
+        $("#searchProduct").submit(function (event) {
+            event.preventDefault();
+            search();
+        });
+
+        function search() {
+            var query = {
+                name: $('#productName').val()
+            };
+            //categoryName = $row.find('input[name="categoryName"]').val().trim();
+            $.ajax({
+                url: "/Admin/Index",
+                type: "POST",
+                datatype: "json",
+                data: query,
+                success: function (dataSelected) {
+
+
+                    notifyUser('Category successfully added.', 'confirm');
+                    loadCategories();
+                },
+                error: function (err) {
+                    notify(err, 'error');
+                    console.log(err);
+                },
+                statusCode: {
+                    403: notifyUnauthorized
+                }
+            });
+        }
+    </script>
+        -->
+
+    <div class="col-lg-12 stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <h4 class="card-title col-md-6 ">Product List</h4>
+                    <div class="col-md-6 float-right">
+                        <form class="d-flex align-items-center h-100" method="post" asp-controller="Admin" asp-action="Index">
+                            <div class="input-group">
+                                <div class="input-group-prepend bg-transparent">
+                                    <i class="input-group-text border-0 mdi mdi-magnify"></i>
+                                </div>
+                                <input name="productName" type="text" class="form-control bg-transparent border-0" placeholder="Search projects">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <br />
+                <table class="table table-bordered">
+                    <thead>
+                    <th>Product ID</th>
+                    <th>Product Name</th>
+                    <th>Unit Price</th>
+                    <th>Units In Stock</th>
+                    <th></th>
+                    <th></th>
+                    </thead>
+                    @foreach (var product in Model.Products)
+                    {
+                        <tbody>
+                        <td>@product.ProductId</td>
+                        <td>@product.ProductName</td>
+                        <td>@product.UnitPrice</td>
+                        <td>@product.UnitsInStock</td>
+                        <td>
+                            <a class="btn btn-xs btn-info" asp-controller="Admin" asp-action="UpdateProduct" asp-route-productId="@product.ProductId">
+                                Update
+                            </a>
+                        </td>
+                        <td>
+                            <a class="btn btn-xs btn-danger" asp-controller="Admin" asp-action="DeleteProduct" asp-route-productId="@product.ProductId">
+                                Delete
+                            </a>
+                        </td>
+                        </tbody>
+                    }
+                </table>
+                <hr />
+                <admin-product-list-pager current-category="@Model.CurrentCategory"
+                                          current-page="@Model.CurrentPage"
+                                          page-count="@Model.PageCount"
+                                          page-size="@Model.PageSize">
+                </admin-product-list-pager>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- content-wrapper ends -->

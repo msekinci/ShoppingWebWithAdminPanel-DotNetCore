@@ -1,0 +1,14 @@
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\bin\Debug\netcoreapp2.2\MSEKinci.Core.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.deps.json
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\bin\Debug\netcoreapp2.2\MSEKinci.Core.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\bin\Debug\netcoreapp2.2\MSEkinci.Northwind.Entities.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\MSEkinci.Northwind.DataAccess\obj\Debug\netcoreapp2.2\MSEkinci.Northwind.DataAccess.pdb

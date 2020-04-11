@@ -1,0 +1,38 @@
+﻿@model MSEkinci.Northwind.MvcWebUI.ViewModels.UpdateProductViewModel
+
+@{
+    ViewData["Title"] = "UpdateProduct";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Update Product</h4>
+            <form class="forms-sample" method="post" asp-controller="Admin" asp-action="UpdateProduct">
+                <input type="hidden" asp-for="Product.ProductId"/>
+                <div class="form-group">
+                    <label asp-for="Product.ProductName">Product Name</label>
+                    <input class="form-control" asp-for="Product.ProductName" placeholder="Product Name">
+                    <span asp-validation-for="Product.ProductName"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Product.UnitPrice">Unit Price</label>
+                    <input class="form-control" asp-for="Product.UnitPrice" placeholder="Unit Price">
+                    <span asp-validation-for="Product.UnitPrice"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Product.UnitsInStock">Units In Stock</label>
+                    <input type="number" class="form-control" asp-for="Product.UnitsInStock" placeholder="Units In Stock">
+                    <span asp-validation-for="Product.UnitsInStock"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Product.CategoryId">Category</label>
+                    <select class="form-control" asp-for="Product.CategoryId"
+                            asp-items="@{new SelectList(Model.Categories,"CategoryId","CategoryName") }"></select>
+                </div>
+                <button type="submit" class="btn btn-gradient-primary mr-2">Update</button>
+                <a asp-controller="Admin" asp-action="Index" class="btn btn-light">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>

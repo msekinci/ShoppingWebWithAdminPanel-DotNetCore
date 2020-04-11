@@ -1,0 +1,9 @@
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\bin\Debug\netcoreapp2.2\MSEKinci.Core.deps.json
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\bin\Debug\netcoreapp2.2\MSEKinci.Core.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\obj\Debug\netcoreapp2.2\MSEKinci.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\obj\Debug\netcoreapp2.2\MSEKinci.Core.AssemblyInfoInputs.cache
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\obj\Debug\netcoreapp2.2\MSEKinci.Core.AssemblyInfo.cs
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\bin\Debug\netcoreapp2.2\MSEKinci.Core.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\obj\Debug\netcoreapp2.2\MSEKinci.Core.dll
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\obj\Debug\netcoreapp2.2\MSEKinci.Core.pdb
+C:\Users\Mehmet Serkan Ekinci\source\repos\msekincisoftware\msekinci.core\obj\Debug\netcoreapp2.2\MSEkinci.Core.csprojAssemblyReference.cache
